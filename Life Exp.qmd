@@ -1,0 +1,14 @@
+---
+title: "Life Exp"
+author: "Jack Markert"
+format: html
+editor: visual
+---
+
+Gapminder analysis
+
+```{r}
+library(tidyverse)
+library(gapminder)
+
+```

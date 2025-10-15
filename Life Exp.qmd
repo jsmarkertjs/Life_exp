@@ -9,6 +9,8 @@ Gapminder analysis
 
 updated
 
+updates 2 from testname
+
 ```{r}
 library(tidyverse)
 library(gapminder)

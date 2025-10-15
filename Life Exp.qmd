@@ -7,6 +7,8 @@ editor: visual
 
 Gapminder analysis
 
+updated
+
 ```{r}
 library(tidyverse)
 library(gapminder)
